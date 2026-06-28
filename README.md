@@ -8,7 +8,7 @@
 
 ## 👨‍💻 About
 
-Hi, I'm **Taimoor Ahmad** — a Machine Learning Engineer with **1+ year of professional experience** at **Smartlyserv**, specializing in end-to-end ML pipelines, Explainable AI (SHAP), and interactive Streamlit applications. Passionate about Generative AI and LLM-assisted workflows.
+Hi, I'm **Taimoor Ahmad** — a Machine Learning Engineer with **6+ months of hand-on**, specializing in end-to-end ML pipelines, Explainable AI (SHAP), and interactive Streamlit applications. Passionate about Generative AI and LLM-assisted workflows.
 
 ---
 
